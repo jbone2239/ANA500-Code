@@ -1,11 +1,17 @@
 Video Game Sales Regional Analysis:
+
 Project Overview
+
 This comprehensive data science project analyzes video game sales patterns across different global regions (North America, Europe, Japan, and Other markets) to identify market opportunities and optimize game development strategies. The analysis leverages machine learning techniques to understand how genre, platform, and publisher influence regional consumer preferences, ultimately helping developers make data-driven decisions to balance their global market presence.
+
 Problem Statement
+
 How can game developers increase video game sales across specific regions to create a more balanced global market by identifying underperforming platforms and genres and implementing data-driven strategies?
 Hypothesis
+
 Video game sales by specific region are influenced by genre, platform, and publisher, and aligning these factors with regional preferences will lead to increased sales and a more balanced global market.
 Dataset
+
 The project utilizes a comprehensive video game sales dataset containing:
 
 Game titles and release information
